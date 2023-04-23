@@ -30,7 +30,7 @@ if ( 'HTTP/1.1' != $protocol && 'HTTP/1.0' != $protocol ) $protocol = 'HTTP/1.0'
 <head>
 <meta charset='UTF-8'>
 	<title>Ops! We are updating our website</title>
-	<link rel="stylesheet" href="/wp-content/maintenance/layout.css">
+	<link rel="stylesheet" href="/maintenance/layout.css">
 </head>
 <body>
 	<header>
